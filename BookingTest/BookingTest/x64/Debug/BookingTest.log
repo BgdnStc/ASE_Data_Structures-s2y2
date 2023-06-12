@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Bogdan\source\repos\BookingTest\BookingTest\Source.c(179,11): warning C4098: 'main': 'void' function returning a value
+C:\Users\Bogdan\source\repos\BookingTest\BookingTest\Source.c(211,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BookingTest.vcxproj -> C:\Users\Bogdan\source\repos\BookingTest\x64\Debug\BookingTest.exe

@@ -1,0 +1,11 @@
+1, Hotel1, 4, John Lenon, 400, Y
+1, Hotel1, 4, John Lenon, 400, Y
+2, Hotel1, 2, Mark, 200, N
+3, Hetel2, 2, George, 250, Y
+3, Hetel2, 2, George, 250, Y
+3, Hetel2, 2, George, 250, Y
+4, Hotel3, 8, Charles, 800, Y
+4, Hotel3, 8, Charles, 800, Y
+5, Hotel4, 1, Michael, 130, N
+6, Hotel1, 2, Mark, 200, N
+4, Hotel3, 8, Charles, 800, Y
