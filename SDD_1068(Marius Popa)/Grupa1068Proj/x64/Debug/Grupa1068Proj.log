@@ -1,0 +1,3 @@
+﻿  03_Structs.c
+C:\Users\Bogdan\source\repos\SDD_1068\Grupa1068Proj\03_Structs.c(164,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Grupa1068Proj.vcxproj -> C:\Users\Bogdan\source\repos\SDD_1068\x64\Debug\SDD_1068.exe

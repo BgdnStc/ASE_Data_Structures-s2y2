@@ -1,0 +1,5 @@
+Venus, Andreescu Ionel, 17, 2, 1000.3
+Maiculescu, Iorgulescu Andrei, 22, 3, 2000.4
+Gensokyo, Popescu David, 11, 2, 1500.2
+Tife, Antonescu Vlad, 15, 5, 3000.2
+Arma, Mihalovici Tudor, 4, 3, 2000.1

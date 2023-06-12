@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(56,17): warning C4013: 'strtok' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(57,28): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(58,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(59,36): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(61,36): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(63,36): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(56,9): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\RoomsProject\RoomsProject\Source.c(109,3): warning C4013: 'memset' undefined; assuming extern returning int
+  RoomsProject.vcxproj -> C:\Users\Bogdan\source\repos\RoomsProject\x64\Debug\RoomsProject.exe
