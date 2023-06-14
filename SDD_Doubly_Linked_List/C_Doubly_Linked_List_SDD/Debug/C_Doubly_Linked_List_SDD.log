@@ -1,0 +1,5 @@
+﻿  Doubly_Linked_List.c
+C:\Users\Bogdan\source\repos\C_Doubly_Linked_List_SDD\C_Doubly_Linked_List_SDD\Doubly_Linked_List.c(14,39): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\C_Doubly_Linked_List_SDD\C_Doubly_Linked_List_SDD\Doubly_Linked_List.c(125,26): warning C4020: 'insertAtTail': too many actual parameters
+C:\Users\Bogdan\source\repos\C_Doubly_Linked_List_SDD\C_Doubly_Linked_List_SDD\Doubly_Linked_List.c(120): warning C4716: 'printList': must return a value
+  C_Doubly_Linked_List_SDD.vcxproj -> C:\Users\Bogdan\source\repos\C_Doubly_Linked_List_SDD\Debug\C_Doubly_Linked_List_SDD.exe
