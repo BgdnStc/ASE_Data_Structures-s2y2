@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Bogdan\source\repos\RoomsHT\RoomsHT\Source.c(129,27): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\Bogdan\source\repos\RoomsHT\RoomsHT\Source.c(129,23): warning C4024: 'memset': different types for formal and actual parameter 2
+C:\Users\Bogdan\source\repos\RoomsHT\RoomsHT\Source.c(200,47): warning C4028: formal parameter 2 different from declaration
+  RoomsHT.vcxproj -> C:\Users\Bogdan\source\repos\RoomsHT\Debug\RoomsHT.exe
