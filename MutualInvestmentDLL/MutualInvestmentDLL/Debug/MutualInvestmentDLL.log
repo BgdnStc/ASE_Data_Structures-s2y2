@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(55,17): warning C4013: 'strtok' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(56,24): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(57,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(58,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(61,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(63,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(65,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(66,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(55,9): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(177,8): warning C4090: 'initializing': different 'const' qualifiers
+  MutualInvestmentDLL.vcxproj -> C:\Users\Bogdan\source\repos\MutualInvestmentDLL\Debug\MutualInvestmentDLL.exe

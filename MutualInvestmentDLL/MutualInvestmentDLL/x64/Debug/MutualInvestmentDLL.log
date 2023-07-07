@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(49,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[256]'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(49,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(51,17): warning C4013: 'strtok' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(52,24): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(53,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(54,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(57,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(59,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(61,34): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(62,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bogdan\source\repos\MutualInvestmentDLL\MutualInvestmentDLL\Source.c(51,9): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  MutualInvestmentDLL.vcxproj -> C:\Users\Bogdan\source\repos\MutualInvestmentDLL\x64\Debug\MutualInvestmentDLL.exe
